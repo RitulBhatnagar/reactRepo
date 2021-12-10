@@ -1,0 +1,19 @@
+.homeContainer{
+  margin-left: 220px;
+}
+.otherPagesContainer{
+  margin-left: 300px;
+}
+.statsContainer{
+  margin-left: 100px;
+}
+/* .newsCol { 
+  width:  90vw;
+  margin-right:  30px;
+} */
+.cryptoTitle { 
+  margin-left:180px;
+  margin-bottom: 20px;
+  font-family: "system-ui";
+  font-size: 1.5rem;
+}
